@@ -14,4 +14,8 @@
 
 <h2>Task 5</h2>
 
-Bu taskda to'rtni necha kishiga nechta bo'lakka bo'lish ko'rsatilgan
+Bu taskda to'rtni necha kishiga nechta bo'lakka bo'lish ko'rsatilgan.
+
+<h2>Task 6</h2>
+
+Bu taskda har qanday to'rt xonali sonni 3 raqimini chiqazib beradi.
